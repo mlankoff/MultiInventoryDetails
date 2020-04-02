@@ -1,5 +1,6 @@
 # MultiInventoryDetails
 MoreMountains Inventory Engine Add-on to handle all active inventories on scene.
+You can use it as default InventoryDetails, switch to multi inventory to handle all active inventories on scene and disable only few of them. Feel free to modify it to your needs.
 
 ### Add-on setup guide:
 1. Clone or download ItemDetails.cs to your project
